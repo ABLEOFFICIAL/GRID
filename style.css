@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: darkkhaki;
+}
+
+.container{
+    background-color: rgb(180, 46, 46);
+    color: rgb(0, 0, 0);
+    /* margin: 10px; */
+    padding: 100px; 
+    text-align: center;
+    height: 100%;
+
+}
+
+    
+
+.item{
+    padding: 40px;
+    background-color: blanchedalmond;
+    
+
+}
+
